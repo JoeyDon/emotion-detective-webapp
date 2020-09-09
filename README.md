@@ -1,6 +1,5 @@
 # Emotion-detective-Web-App
 
-This is a solution regarding **KPMG Technical Test**
 
 ## Staging link
 
